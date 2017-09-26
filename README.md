@@ -1,2 +1,2 @@
 # experiments
-Scratch pad and eperiements
+Scratch pad and experiments.  This using AWS CLI and ReactJS.
