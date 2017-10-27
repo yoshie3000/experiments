@@ -5,3 +5,7 @@ Scratch pad and experiments.  This using AWS CLI and ReactJS.
 git
 github
 ssh
+HTML
+CSS
+Font Awesome
+Google Fonts
